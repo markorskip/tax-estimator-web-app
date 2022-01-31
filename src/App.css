@@ -42,12 +42,12 @@
 }
 #narrow {
   width: 200px;
-  background: lightblue;
+  background: lightgrey;
   /* Just so it's visible */
 }
 #wide {
   flex: 1;
   /* Grow to rest of container */
-  background: lightgreen;
+  background: grey;
   /* Just so it's visible */
 }
